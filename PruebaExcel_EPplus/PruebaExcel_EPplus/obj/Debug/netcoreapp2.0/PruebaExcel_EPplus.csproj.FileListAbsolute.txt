@@ -1,0 +1,11 @@
+C:\Users\apecero\source\repos\PruebaExcel_EPplus\PruebaExcel_EPplus\bin\Debug\netcoreapp2.0\PruebaExcel_EPplus.deps.json
+C:\Users\apecero\source\repos\PruebaExcel_EPplus\PruebaExcel_EPplus\bin\Debug\netcoreapp2.0\PruebaExcel_EPplus.runtimeconfig.json
+C:\Users\apecero\source\repos\PruebaExcel_EPplus\PruebaExcel_EPplus\bin\Debug\netcoreapp2.0\PruebaExcel_EPplus.runtimeconfig.dev.json
+C:\Users\apecero\source\repos\PruebaExcel_EPplus\PruebaExcel_EPplus\bin\Debug\netcoreapp2.0\PruebaExcel_EPplus.dll
+C:\Users\apecero\source\repos\PruebaExcel_EPplus\PruebaExcel_EPplus\obj\Debug\netcoreapp2.0\PruebaExcel_EPplus.csprojResolveAssemblyReference.cache
+C:\Users\apecero\source\repos\PruebaExcel_EPplus\PruebaExcel_EPplus\obj\Debug\netcoreapp2.0\PruebaExcel_EPplus.csproj.CoreCompileInputs.cache
+C:\Users\apecero\source\repos\PruebaExcel_EPplus\PruebaExcel_EPplus\obj\Debug\netcoreapp2.0\PruebaExcel_EPplus.AssemblyInfoInputs.cache
+C:\Users\apecero\source\repos\PruebaExcel_EPplus\PruebaExcel_EPplus\obj\Debug\netcoreapp2.0\PruebaExcel_EPplus.AssemblyInfo.cs
+C:\Users\apecero\source\repos\PruebaExcel_EPplus\PruebaExcel_EPplus\bin\Debug\netcoreapp2.0\PruebaExcel_EPplus.pdb
+C:\Users\apecero\source\repos\PruebaExcel_EPplus\PruebaExcel_EPplus\obj\Debug\netcoreapp2.0\PruebaExcel_EPplus.dll
+C:\Users\apecero\source\repos\PruebaExcel_EPplus\PruebaExcel_EPplus\obj\Debug\netcoreapp2.0\PruebaExcel_EPplus.pdb
